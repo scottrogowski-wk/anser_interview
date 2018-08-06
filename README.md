@@ -1,6 +1,6 @@
 # anser_interview
 
-This is the take-home problem for the software engineer role on the ANSER (Analytic Services) team here at Workiva. We're a small team but manage the analytics infrastructure for all Workiva applications. Additionally, we oversee several dozen ETL jobs and the dashboards used by teams all over Workiva to make data-driven decisions.
+This is the take-home problem for the software engineer role on the ANSER (Analytic Services) team here at Workiva. We're a small team but manage the analytics infrastructure for all Workiva applications. Additionally, we oversee several dozen ETL jobs and data visualization used by teams all over Workiva to make data-driven decisions.
 
 # The task
 In this assignment, you will be analyzing historical weather data for the city of Boulder, Colorado. Here are the steps you need to complete:
